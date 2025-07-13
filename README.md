@@ -18,7 +18,7 @@ So in a summary it works like this:
 
 # How to run
 
-Just like every running every python code
+Just like running every python code
 
 ```bash
 python -u "[PATH_TO_FILE]/scraper.py"
